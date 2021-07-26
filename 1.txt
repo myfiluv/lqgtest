@@ -4,3 +4,4 @@ qgtest
 
 modified by local
 test
+test lqgtest
